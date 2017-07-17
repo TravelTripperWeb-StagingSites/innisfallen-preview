@@ -1,0 +1,6 @@
+[
+  {
+    "_template": "html",
+    "content": "<h3>Rooms &amp; Suites</h3>\n<div>\n<div data-region=\"en/index.html/about_us_intro.json\" data-region-type=\"html\" data-region-classes=\"\">\n<div data-ped-index=\"0\" data-ped-type=\"html\">\n<h2>Superb four star accommodation at affordable prices.&nbsp;</h2>\n</div>\n</div>\n</div>\n<section id=\"Rooms\">\n<div>\n<div>\n<div>\n<div>\n<div data-region=\"en/index.html/room_details.json\" data-region-type=\"html\" data-region-classes=\"\">\n<div data-ped-index=\"0\" data-ped-type=\"html\">\n<p>Make yourself at home in one our guestrooms. Complimentary wireless Internet access keeps you connected, and satellite programming is available for your entertainment. Private bathrooms with showers feature complimentary toiletries and hair dryers. Conveniences include phones, as well as safes and desks.</p>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</section>\n<section id=\"Facilities\" class=\"Facilities clearfix\" style=\"box-sizing: border-box; padding-top: 70px; color: #333333; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 14px; text-align: start;\">\n<div class=\"container\" style=\"box-sizing: border-box; width: 1146px;\">&nbsp;</div>\n</section>"
+  }
+]
