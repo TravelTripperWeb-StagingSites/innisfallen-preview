@@ -1,13 +1,23 @@
 {
-  "name": "Banner Local Attraction",
+  "name": "Gap of Dunloe",
   "image": {
-    "url": "https://cdn.staging-traveltripper.info/site-assets/1_529_622/media/2017-07-17-082535/banner-image-3.jpg",
-    "url_large": "//cdn.staging-traveltripper.info/site-assets/1_529_622/media/2017-07-17-082535/large_banner-image-3.jpg",
-    "url_medium": "//cdn.staging-traveltripper.info/site-assets/1_529_622/media/2017-07-17-082538/medium_bathroom.jpg",
-  "url_small": "//cdn.staging-traveltripper.info/site-assets/1_529_622/media/2017-07-17-082538/small_bathroom.jpg",
-  "url_xsmall": "//cdn.staging-traveltripper.info/site-assets/1_529_622/media/2017-07-17-082538/xsmall_bathroom.jpg",
-  "url_thumb": "//cdn.staging-traveltripper.info/site-assets/1_529_622/media/2017-07-17-082538/thumb_bathroom.jpg",
-    "alt_text": "Local Attraction"
+    "url": "https://cdn.staging-traveltripper.info/site-assets/1_529_622/media/2017-07-17-151807/gap-of-dunloe-banner-image.jpg",
+    "url_large": "//cdn.staging-traveltripper.info/site-assets/1_529_622/media/2017-07-17-151807/large_gap-of-dunloe-banner-image.jpg",
+    "url_medium": "//cdn.staging-traveltripper.info/site-assets/1_529_622/media/2017-07-17-151807/medium_gap-of-dunloe-banner-image.jpg",
+    "url_small": "//cdn.staging-traveltripper.info/site-assets/1_529_622/media/2017-07-17-151807/small_gap-of-dunloe-banner-image.jpg",
+    "url_xsmall": "//cdn.staging-traveltripper.info/site-assets/1_529_622/media/2017-07-17-151807/xsmall_gap-of-dunloe-banner-image.jpg",
+    "url_thumb": "//cdn.staging-traveltripper.info/site-assets/1_529_622/media/2017-07-17-151807/thumb_gap-of-dunloe-banner-image.jpg",
+    "alt_text": "Local Attraction",
+    "path": "https://cdn.staging-traveltripper.info/site-assets/1_529_622/media/2017-07-17-151807/gap-of-dunloe-banner-image.jpg",
+    "file_type": "image/jpeg",
+    "name": "gap-of-dunloe-banner-image",
+    "tags": "gallery",
+    "width": 1438,
+    "height": 700,
+    "file_size": 215105,
+    "alt": "Gap of Dunloe",
+    "caption": "",
+    "description": ""
   },
-  "order": 3
+  "order": 1
 }
