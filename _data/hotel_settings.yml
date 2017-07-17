@@ -1,6 +1,6 @@
 ---
-latitude: 52.070375
-longitude: -9.574189
+latitude: '52.070375'
+longitude: "-9.574189"
 name: Innisfallen Hotel
 email: reservations@Hotelkillarney.ie
 phone_number: 353-46-6623600
@@ -9,7 +9,7 @@ address:
   street2: Co. Kerry
   state: ''
   city: Killarney
-  country: 
+  country: Ireland
   zip_code: V93CR90
 _hotel_id: IRETIK
 _portal_id: innisfallenhotel
@@ -18,6 +18,10 @@ logo: <img id="1500319497457" class=" " src="https://cdn.staging-traveltripper.i
   />
 footer_logo: <img id="1500322158027" class=" " src="https://cdn.staging-traveltripper.info/site-assets/1_529_622/media/2017-07-17-151840/logo.jpg"
   />
-footer_last_column: |-
-  <h4>Visit Our Sister Properties</h4>
-  <p><a href="http://www.hotelkillarney.ie/" target="_blank" rel="noopener noreferrer"><img id="1500322939218" class=" " style="display: block; margin-left: auto; margin-right: auto;" src="https://cdn.staging-traveltripper.info/site-assets/1_529_622/media/2017-07-17-162132/hotel-killarney-logo.png" /></a><a href="http://www.3lakeshostel.ie/" target="_blank" rel="noopener noreferrer"><img id="1500322973510" class=" " style="display: block; margin-left: auto; margin-right: auto;" src="https://cdn.staging-traveltripper.info/site-assets/1_529_622/media/2017-07-17-162134/3-lakes-hostel-logo.png" /></a></p>
+footer_last_column: '<h4>Visit Our Sister Properties</h4><p><a href="http://www.hotelkillarney.ie/"
+  target="_blank" rel="noopener noreferrer"><img id="1500322939218" class=" " style="display:
+  block; margin-left: auto; margin-right: auto;" src="https://cdn.staging-traveltripper.info/site-assets/1_529_622/media/2017-07-17-162132/hotel-killarney-logo.png"
+  /></a><a href="http://www.3lakeshostel.ie/" target="_blank" rel="noopener noreferrer"><img
+  id="1500322973510" class=" " style="display: block; margin-left: auto; margin-right:
+  auto;" src="https://cdn.staging-traveltripper.info/site-assets/1_529_622/media/2017-07-17-162134/3-lakes-hostel-logo.png"
+  /></a></p>'
