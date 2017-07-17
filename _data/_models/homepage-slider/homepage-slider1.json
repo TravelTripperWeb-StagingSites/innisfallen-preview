@@ -1,10 +1,13 @@
 {
-  "name": "Lobby",
+  "name": "Banner Local Attraction",
   "image": {
-    "url": "/assets/stock_images/lobby.jpg",
-    "url_large": "",
-    "url_medium": "",
-    "alt_text": "Lobby"
+    "url": "https://cdn.staging-traveltripper.info/site-assets/1_529_622/media/2017-07-17-082535/banner-image-3.jpg"",
+    "url_large": "//cdn.staging-traveltripper.info/site-assets/1_529_622/media/2017-07-17-082535/large_banner-image-3.jpg",
+    "url_medium": "//cdn.staging-traveltripper.info/site-assets/1_529_622/media/2017-07-17-082538/medium_bathroom.jpg",
+  "url_small": "//cdn.staging-traveltripper.info/site-assets/1_529_622/media/2017-07-17-082538/small_bathroom.jpg",
+  "url_xsmall": "//cdn.staging-traveltripper.info/site-assets/1_529_622/media/2017-07-17-082538/xsmall_bathroom.jpg",
+  "url_thumb": "//cdn.staging-traveltripper.info/site-assets/1_529_622/media/2017-07-17-082538/thumb_bathroom.jpg".
+    "alt_text": "Local Attraction"
   },
-  "order": 1
+  "order": 3
 }
