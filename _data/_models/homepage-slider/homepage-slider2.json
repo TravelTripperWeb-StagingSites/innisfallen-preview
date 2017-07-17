@@ -1,10 +1,23 @@
 {
-  "name": "City View",
+  "name": "Exterior",
   "image": {
-    "url": "/assets/stock_images/city-view.jpg",
-    "url_large": "",
-    "url_medium": "",
-    "alt_text": "City View"
+    "url": "https://cdn.staging-traveltripper.info/site-assets/1_529_622/media/2017-07-17-082554/exterior-sign3.jpg",
+    "url_large": "//cdn.staging-traveltripper.info/site-assets/1_529_622/media/2017-07-17-082554/large_exterior-sign3.jpg",
+    "url_medium": "//cdn.staging-traveltripper.info/site-assets/1_529_622/media/2017-07-17-082554/medium_exterior-sign3.jpg",
+    "alt_text": "City View",
+    "path": "https://cdn.staging-traveltripper.info/site-assets/1_529_622/media/2017-07-17-082554/exterior-sign3.jpg",
+    "file_type": "image/jpeg",
+    "name": "exterior-sign3",
+    "tags": "",
+    "url_thumb": "//cdn.staging-traveltripper.info/site-assets/1_529_622/media/2017-07-17-082554/thumb_exterior-sign3.jpg",
+    "url_small": "//cdn.staging-traveltripper.info/site-assets/1_529_622/media/2017-07-17-082554/small_exterior-sign3.jpg",
+    "url_xsmall": "//cdn.staging-traveltripper.info/site-assets/1_529_622/media/2017-07-17-082554/xsmall_exterior-sign3.jpg",
+    "width": 2400,
+    "height": 1600,
+    "file_size": 1703392,
+    "alt": "Innisfallen Hotel Exterior",
+    "caption": "",
+    "description": ""
   },
   "order": 2
 }

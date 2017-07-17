@@ -1,10 +1,23 @@
 {
-  "name": "Lobby",
+  "name": "Lakes",
   "image": {
-    "url": "/assets/stock_images/lobby.jpg",
-    "url_large": "",
-    "url_medium": "",
-    "alt_text": "Lobby"
+    "url": "https://cdn.staging-traveltripper.info/site-assets/1_529_622/media/2017-07-17-151837/location-image.jpg",
+    "url_large": "//cdn.staging-traveltripper.info/site-assets/1_529_622/media/2017-07-17-151837/large_location-image.jpg",
+    "url_medium": "//cdn.staging-traveltripper.info/site-assets/1_529_622/media/2017-07-17-151837/medium_location-image.jpg",
+    "url_small": "//cdn.staging-traveltripper.info/site-assets/1_529_622/media/2017-07-17-151837/small_location-image.jpg",
+    "url_xsmall": "//cdn.staging-traveltripper.info/site-assets/1_529_622/media/2017-07-17-151837/xsmall_location-image.jpg",
+    "url_thumb": "//cdn.staging-traveltripper.info/site-assets/1_529_622/media/2017-07-17-151837/thumb_location-image.jpg",
+    "alt_text": "Local Attraction",
+    "path": "https://cdn.staging-traveltripper.info/site-assets/1_529_622/media/2017-07-17-151837/location-image.jpg",
+    "file_type": "image/jpeg",
+    "name": "location-image",
+    "tags": "gallery",
+    "width": 1800,
+    "height": 1200,
+    "file_size": 349105,
+    "alt": "Lakes",
+    "caption": "",
+    "description": ""
   },
   "order": 1
 }

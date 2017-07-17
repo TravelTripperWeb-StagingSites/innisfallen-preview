@@ -1,11 +1,27 @@
 {
-  "name": "The Fancy Restaurant",
-  "tagline": "Join us for dinner",
-  "description": "<p>Info about the restaurant</p>",
+  "name": "The Valley Bar & Restaurant",
+  "tagline": "Come Join Us for Dinner in the Picturesque Valley Bar & Restaurant!",
+  "description": "<p>Our Valley Bar is the perfect place to enjoy a relaxing drink, snack or a wholesome meal after a day exploring Killarney's great outdoors. Our Bar menu features many local favourites and draws on the very best of local and seasonal produce that Killarney and Kerry has to offer. The Valley Restaurant caters for a more formal evening meal and also offers a sumptuous Sunday Lunch. 24 hour room service is provided and picnic hampers are also available to ensure your day exploring the local area has all the requirement for a hassle free break.</p>",
   "image": {
-    "url": "/assets/stock_images/breakfast.jpg"
+    "url": "https://cdn.staging-traveltripper.info/site-assets/1_529_622/media/2017-07-17-151849/pub1.jpg",
+    "path": "https://cdn.staging-traveltripper.info/site-assets/1_529_622/media/2017-07-17-151849/pub1.jpg",
+    "file_type": "image/jpeg",
+    "name": "pub1",
+    "tags": "gallery",
+    "url_large": "//cdn.staging-traveltripper.info/site-assets/1_529_622/media/2017-07-17-151849/large_pub1.jpg",
+    "url_thumb": "//cdn.staging-traveltripper.info/site-assets/1_529_622/media/2017-07-17-151849/thumb_pub1.jpg",
+    "url_medium": "//cdn.staging-traveltripper.info/site-assets/1_529_622/media/2017-07-17-151849/medium_pub1.jpg",
+    "url_small": "//cdn.staging-traveltripper.info/site-assets/1_529_622/media/2017-07-17-151849/small_pub1.jpg",
+    "url_xsmall": "//cdn.staging-traveltripper.info/site-assets/1_529_622/media/2017-07-17-151849/xsmall_pub1.jpg",
+    "width": 2400,
+    "height": 1600,
+    "file_size": 1268090,
+    "alt": "Valley Bar & Restaurant",
+    "caption": "",
+    "description": ""
   },
-  "menu_url": "http://www.google.com",
-  "reservations_url": "http://www.google.com",
-  "order": 1
+  "menu_url": "http://www.innisfallen.ie/apdfurl.html",
+  "reservations_url": "mailto:info@innisfallenhotel.ie",
+  "order": 1,
+  "short_description": "Our Valley Bar is the perfect place to enjoy a relaxing drink, snack or a wholesome meal after a day exploring Killarney's great outdoors. Our Bar menu features many local favourites and draws on the very best of local and seasonal produce that Killarney and Kerry has to offer."
 }

@@ -1,10 +1,23 @@
 {
-  "name": "Tower Bridge",
+  "name": "Bar",
   "image": {
-    "url": "/assets/stock_images/tower-bridge.jpg",
-    "url_large": "",
-    "url_medium": "",
-    "alt_text": "Tower Bridge at night"
+    "url": "https://cdn.staging-traveltripper.info/site-assets/1_529_622/media/2017-07-17-151853/pub2.jpg",
+    "url_large": "//cdn.staging-traveltripper.info/site-assets/1_529_622/media/2017-07-17-151853/large_pub2.jpg",
+    "url_medium": "//cdn.staging-traveltripper.info/site-assets/1_529_622/media/2017-07-17-151853/medium_pub2.jpg",
+    "alt_text": "Tower Bridge at night",
+    "path": "https://cdn.staging-traveltripper.info/site-assets/1_529_622/media/2017-07-17-151853/pub2.jpg",
+    "file_type": "image/jpeg",
+    "name": "pub2",
+    "tags": "",
+    "url_thumb": "//cdn.staging-traveltripper.info/site-assets/1_529_622/media/2017-07-17-151853/thumb_pub2.jpg",
+    "url_small": "//cdn.staging-traveltripper.info/site-assets/1_529_622/media/2017-07-17-151853/small_pub2.jpg",
+    "url_xsmall": "//cdn.staging-traveltripper.info/site-assets/1_529_622/media/2017-07-17-151853/xsmall_pub2.jpg",
+    "width": 2400,
+    "height": 1600,
+    "file_size": 1281915,
+    "alt": "Bar",
+    "caption": "",
+    "description": ""
   },
   "order": 3
 }
