@@ -10,8 +10,8 @@
     },
   "city": "",
   "address1": "Killarney Lakes",
-  "latitude": "52.0418477",
-  "longitude": "-9.569653900000048",
+  "latitude": 52.0418477,
+  "longitude": -9.569653900000048,
   "state": "Killarney",
   "order": 1
 }
