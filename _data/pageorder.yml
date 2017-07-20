@@ -3,7 +3,7 @@ paths:
 - "/"
 - "/about/"
 - "/rooms/"
-- "/destination/"
 - "/gallery/"
 - "/offers/"
 - "/dining/"
+- "/destination/"
