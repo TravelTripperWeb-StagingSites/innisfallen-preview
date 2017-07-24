@@ -1,3 +1,4 @@
+---
 en:
   footer:
     address_header: Address
@@ -20,3 +21,5 @@ en:
   attractions:
     buttons:
       get_directions: Get Directions
+  header:
+    book_now_button: BOOK NOW
