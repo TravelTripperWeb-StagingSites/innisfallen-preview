@@ -1,0 +1,9 @@
+---
+- some-old-url: about/
+- some-old-url/: about/
+- Some-old-url: about/
+- Some-old-url/: about/
+- Some-Old-Url: about/
+- Some-Old-Url/: about/
+- SOME-OLD-URL: about/
+- SOME-OLD-URL/: about/
