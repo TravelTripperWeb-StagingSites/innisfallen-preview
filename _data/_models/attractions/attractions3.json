@@ -4,5 +4,24 @@
   "description": "<p>Killarney Golf &amp; Fishing Club</p>",
   "order": 3,
   "latitude": 52.0604588,
-  "longitude": -9.5633692
+  "longitude": -9.5633692,
+  "image": {
+    "url": "https://cdn.staging-traveltripper.info/site-assets/1_529_622/media/2017-07-17-082535/banner-image-3.jpg",
+    "path": "https://cdn.staging-traveltripper.info/site-assets/1_529_622/media/2017-07-17-082535/banner-image-3.jpg",
+    "file_type": "image/jpeg",
+    "name": "banner-image-3",
+    "tags": "gallery",
+    "url_large": "//cdn.staging-traveltripper.info/site-assets/1_529_622/media/2017-07-17-082535/large_banner-image-3.jpg",
+    "url_thumb": "//cdn.staging-traveltripper.info/site-assets/1_529_622/media/2017-07-17-082535/thumb_banner-image-3.jpg",
+    "url_medium": "//cdn.staging-traveltripper.info/site-assets/1_529_622/media/2017-07-17-082535/medium_banner-image-3.jpg",
+    "url_small": "//cdn.staging-traveltripper.info/site-assets/1_529_622/media/2017-07-17-082535/small_banner-image-3.jpg",
+    "url_xsmall": "//cdn.staging-traveltripper.info/site-assets/1_529_622/media/2017-07-17-082535/xsmall_banner-image-3.jpg",
+    "width": 2157,
+    "height": 1050,
+    "file_size": 311144,
+    "alt": "Beautiful golf views",
+    "caption": "",
+    "description": ""
+  },
+  "featured": true
 }
