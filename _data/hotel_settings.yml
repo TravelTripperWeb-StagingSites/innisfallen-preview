@@ -26,3 +26,5 @@ footer_last_column: '<h4>Visit Our Sister Properties</h4><p><a href="http://www.
   id="1500322973510" class=" " style="display: block; margin-left: auto; margin-right:
   auto;" src="https://cdn.staging-traveltripper.info/site-assets/1_529_622/media/2017-07-17-162134/3-lakes-hostel-logo.png"
   /></a></p>'
+default_currency: EUR
+default_timezone: Europe/Dublin
